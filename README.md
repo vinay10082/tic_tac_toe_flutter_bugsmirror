@@ -8,7 +8,7 @@ this application will have following features:
 3. Used the Flutter framework to development
 4. Error handling
 
-Github Link: "https://github.com/vinay10082/tic_tac_toe_flutter_bugsmirror/blob/main/README.md"
+Github Link: "https://github.com/vinay10082/tic_tac_toe_flutter_bugsmirror/"
 
 Command to run -> "flutter run"
 ![Screenshot_2023-09-05-03-10-59-36_c760d47c3428146d1c606f2d44059c75](https://github.com/vinay10082/tic_tac_toe_flutter_bugsmirror/assets/77240888/338df70e-96c4-411d-af4c-b433d6cbd79d)
